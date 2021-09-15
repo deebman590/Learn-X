@@ -1,0 +1,46 @@
+/*first stage*/
+body{
+	padding:0;
+	margin:0;
+	}
+		.group{
+			border:solid 1px #eee;
+			border-top:5px;
+			border-right:5px;
+			border-left:5px;
+			box-shadow:2px 2px 5px #000;
+			background-color:#fff;
+			}
+		.h2{
+          margin-left:5%;
+          flex-basis:100%;
+          text-align:left;
+          }
+          b{
+          color: #f6a9a9;
+          font-size:20px;
+          font-weight:bold;
+           }
+           strong{
+           	color: #f6a9a9;
+           }
+                   /*second stage*/
+           .photo{
+           	width:200px;
+               margin:5px auto;
+               mix-blend-mode:multiply;
+           	}
+           dt{
+           	font-weight:bold;
+               font-size:20px;
+           	}
+           .first{
+           	background-color:#fdefef;
+           	}
+           .b{
+          	color: #f6a9a9;
+          font-size:20px;
+           	}
+           .an{
+           	color:#f6a9a9;
+           	}

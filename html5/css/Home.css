@@ -1,0 +1,115 @@
+body{
+	padding:0;
+	margin:0;
+	font-family:"Cairo", sans-serif;
+	}
+	.group{
+			display:flex;
+			align-items: center;
+			border:solid 1px #eee;
+			border-top:5px;
+			border-right:5px;
+			border-left:5px;
+			box-shadow:10px 10px 6px #000;
+			background-color:#fff;
+			}
+			background {
+				background-color:#fdefef;
+				}
+		.h2{
+          margin-left:5%;
+          flex-basis:100%;
+          text-align:left;
+          }
+          .b{
+          color: #f6a9a9;
+          font-size:20px;
+          font-weight:bold;
+           }
+           a{
+           	color:#000;
+           text-decoration:none;
+           	}
+           @media (min-width:980px){
+           	.photo{
+           	width:980px;
+               margin:auto;
+           	}
+           p{
+           	text-align: center;
+           	}
+           dd{
+           	font-size:13px;
+           	}
+           }
+           dt{
+           	font-weight:bold;
+           font-size:20px;
+           	}
+           a:hover{
+	border-botttom:solid #f6a9a9 ;
+  color:#f6a9a9;
+  padding:0;
+}   
+<!-------code------->         
+               .code{
+           background-color:white;
+           width:250px;
+           margin:auto;
+           padding:10px;
+           text-align: center;
+           	}
+           .flex{
+           	display: flex;
+                justify-content:space-around;
+           }
+           /*finally*/
+           .backgroundd{
+           	background-color:#3D087B;
+           	}
+									.shark,.sharks{
+										background-color:#3D087B;
+										margin:5px auto;
+										margin-top:20px;
+										padding:0;
+										height:auto;
+										width:auto;
+										color:white;
+										text-align: center; 
+										font-family:"Cairo", sans-serif;
+										}
+										.sharks{
+											width:140px;
+											color:#fff;
+											}
+										.partage {
+											width:50px;
+											color:white;
+											background-color:#fff;
+											padding:10px;
+											}
+											.svgg{
+												padding: 5px 10px 30px 10px;
+												display: flex;
+                                               flex-direction:row;
+                                               align-items: center;
+                                               justify-content: center;
+												}
+												SVG{
+           	flex-basis:50px;
+           	}
+           p{
+           	text-align: center;
+           	}
+												footer,.Help{
+													text-align: center;
+													color:white;
+													}
+													.PayPal{
+														width:150px;
+														background-color:white;
+														Margin:20px auto;
+														border-radius:30px;
+														color: black;
+														padding:10px;
+														}
